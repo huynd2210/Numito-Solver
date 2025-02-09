@@ -1,0 +1,25 @@
+Solver for the puzzle game: Numito
+App store: https://apps.apple.com/us/app/numito/id1569146063
+Google Play: https://play.google.com/store/apps/details?id=com.juan.ma.nudoku&hl=en-US
+
+Example:
+```
+if __name__ == '__main__':
+    input = "59/*53-+853+327"
+    target = [12,13]
+    # target = "="
+    print(solve(input, target))
+```
+```
+Output:
+{12: ['5/5+8+3', '5*3-5+2'], 13: ['5/5+5+7', '5*3-5+3', '9/3+8+2', '9/3+3+7']}
+```
+For puzzles with '=' use '=' for target. 
+To run simply:
+```
+python solver.py
+```
+
+
+
+  
