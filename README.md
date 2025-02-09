@@ -1,7 +1,7 @@
 Solver for the puzzle game: Numito
 App store: https://apps.apple.com/us/app/numito/id1569146063 <br>
 Google Play: https://play.google.com/store/apps/details?id=com.juan.ma.nudoku&hl=en-US
-![image](https://github.com/user-attachments/assets/18582f0a-3615-4c4f-a4d5-d0dec05f622c)
+![image](https://github.com/user-attachments/assets/18582f0a-3615-4c4f-a4d5-d0dec05f622c){width=300px}
 
 Example:
 ```
